@@ -8,7 +8,7 @@ I am a web development and Networking student, interested in Machine learning an
 
 - 🔭 I'm currently pursuing two Associate's degrees in Web Development and Networking at JCCC.
 - I Create data visualizations and post them to Blue Sky.
-- I particpate in Kaggle competitions
+- I participate in Kaggle competitions
 - I build websites for fun
 
 ## Tech Stack
