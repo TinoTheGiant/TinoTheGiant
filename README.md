@@ -31,7 +31,7 @@ I am a web development and Networking student, interested in Machine learning an
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://bsky.app/profile)
+- Connect with me on [BlueSky](https://bsky.app/profile)
 - See more of my work on [tino.me](https://tino.me)
 - Connect with me on[LinkedIn](https://www.linkedin.com/in/tino-kaseke/)
 
