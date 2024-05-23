@@ -7,12 +7,12 @@ I am a web development and Networking student, interested in Machine learning an
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing two Associate's degrees in Web Development and Networking at JCCC.
-- I Create data visualizations and post them to blue sky.
-- I particpate in kaggle competitions
+- I Create data visualizations and post them to Blue Sky.
+- I particpate in Kaggle competitions
 - I build websites for fun
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,c++,php,django,fastapi,sql,flask,tailwind,PostgreSQL&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,cpp,php,django,fastapi,sql,flask,tailwind,PostgreSQL&perline=7)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
