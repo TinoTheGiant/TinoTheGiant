@@ -2,7 +2,7 @@
 
 I am a web development and Networking student, interested in Machine learning and Full-stack development.
 
-![<TinoTheGiant>'s Stats](https://github-readme-stats.vercel.app/api?username=<TinoTheGiant>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![TinoTheGiant's Stats](https://github-readme-stats.vercel.app/api?username=TinoTheGiant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ I am a web development and Networking student, interested in Machine learning an
 - I build websites for fun
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,c++,php,django,fastapi,graphQL,sql,flask,tailwind,PostgreSQL&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,c++,php,django,fastapi,sql,flask,tailwind,PostgreSQL&perline=7)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
