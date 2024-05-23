@@ -12,7 +12,7 @@ I am a web development and Networking student, interested in Machine learning an
 - I build websites for fun
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,cpp,php,django,fastapi,sql,flask,tailwind,PostgreSQL&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp,php,django,fastapi,sql,flask,tailwind,mongodb,bash,bootstrap,github,postgres,vercel,netlify,vite&perline=3)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
