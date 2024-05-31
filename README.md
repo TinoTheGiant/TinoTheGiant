@@ -1,4 +1,4 @@
-# Hi, I'm Tinotenda! 👋
+# Hi, I'm Tino! 👋
 
 I am a web development and Networking student, interested in Machine learning and Full-stack development.
 
