@@ -1,6 +1,6 @@
 # Hi, I'm Tino! 👋
 
-I am a web development and Networking student, interested in Machine learning and Full-stack development.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=00FF80&random=false&width=650&lines=I+am+a+Web+Development+and+Networking+student%2C;interested+in+Machine+learning+and+Full-stack+development.)](https://git.io/typing-svg)
 
 ![TinoTheGiant's Stats](https://github-readme-stats.vercel.app/api?username=TinoTheGiant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
