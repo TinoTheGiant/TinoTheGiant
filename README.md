@@ -1,6 +1,22 @@
 # Hi, I'm Tino! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=00FF80&random=false&width=650&lines=I+am+a+Web+Development+and+Networking+student%2C;Interested+in+Machine+Learning+and+Full-Stack+Development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=00FF80&random=false&width=650&lines=I+am+a+Web+Development+and+Networking+Student%2C;Interested+in+Machine+Learning+and+Full-Stack+Development.)](https://git.io/typing-svg)
+
+
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tino-kaseke/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px; height:30px; margin-right:15px;">
+  </a>
+
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/tinodevelops.bsky.social" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" style="width:30px; height:30px; margin-right:15px;">
+  </a>
+</p>
+
+
 
 ![TinoTheGiant's Stats](https://github-readme-stats.vercel.app/api?username=TinoTheGiant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -34,5 +50,7 @@
 - Connect with me on [BlueSky](https://bsky.app/profile)
 - See more of my work on [tino.me](https://tino.me)
 - Connect with me on[LinkedIn](https://www.linkedin.com/in/tino-kaseke/)
+
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
