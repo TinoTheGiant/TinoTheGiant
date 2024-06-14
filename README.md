@@ -20,6 +20,10 @@
 
 ![TinoTheGiant's Stats](https://github-readme-stats.vercel.app/api?username=TinoTheGiant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+
+
+
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing two Associate's degrees in Web Development and Networking at JCCC.
@@ -29,6 +33,8 @@
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp,php,django,fastapi,typescript,tailwind,mongodb,bash,bootstrap,github,postgres,vercel,netlify,threejs&perline=6)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoTheGiant&hide_progress=true)](https://github.com/TinoTheGiant/github-readme-stats)
 
 ## 🌱 Currently Exploring
 
@@ -54,3 +60,7 @@
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+
+
