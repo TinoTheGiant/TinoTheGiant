@@ -49,6 +49,7 @@
 
 - AAS Computer Information Systems
 - Data Analytics Certificate
+- BS Molecular Biology
 
 
 ## 📬 Get in Touch
