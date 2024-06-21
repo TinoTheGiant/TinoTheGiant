@@ -32,7 +32,7 @@
 - I build websites for fun
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp,php,django,fastapi,typescript,tailwind,mongodb,bash,bootstrap,github,postgres,vercel,netlify,threejs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp,php,django,fastapi,typescript,tailwind,mongodb,bash,bootstrap,github,postgres,vercel,svelte,threejs&perline=6)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinoTheGiant&hide_progress=true)](https://github.com/TinoTheGiant/github-readme-stats)
 
