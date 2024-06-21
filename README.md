@@ -56,7 +56,7 @@
 
 - Connect with me on [BlueSky](https://bsky.app/profile)
 - See more of my work on [tino.me](https://tino.me)
-- Connect with me on[LinkedIn](https://www.linkedin.com/in/tino-kaseke/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/tino-kaseke/)
 
 
 
