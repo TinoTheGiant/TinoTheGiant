@@ -55,7 +55,7 @@
 ## 📬 Get in Touch
 
 - Connect with me on [BlueSky](https://bsky.app/profile)
-- See more of my work on [tino.me](https://tino.me)
+- See more of my work on [tino.me](https://tinok.vercel.app/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/tino-kaseke/)
 
 
