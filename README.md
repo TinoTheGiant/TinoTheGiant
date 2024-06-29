@@ -40,7 +40,7 @@
 
 - 🚀 Learning Full Stack Web Development
   - learning about Machine learning, API's and Cloud services.
-  - Learning react
+  - Learning react and adjacent frameworks.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
   - contributing to open-source projects
