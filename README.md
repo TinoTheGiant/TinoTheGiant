@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing two Associate's degrees in Web Development and Networking at JCCC.
-- I Create data visualizations and post them to Blue Sky.
+- I create data visualizations and post them to Blue Sky.
 - I participate in Kaggle competitions
 - I build websites for fun
 
