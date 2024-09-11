@@ -47,9 +47,9 @@
 
  ## 🏆 Achievements
 
-- AAS Computer Information Systems
-- Data Analytics Certificate
-- BS Molecular Biology
+- AAS Computer Information Systems - Johnson County Community College
+- Data Analytics Certificate - Johnson County Community College
+- BS Molecular Biology - McNeese State University
 
 
 ## 📬 Get in Touch
