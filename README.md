@@ -4,17 +4,8 @@
 
 
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tino-kaseke/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:30px; height:30px; margin-right:15px;">
-  </a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/britishtino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tino-kaseke/)
 
-  <!-- Bluesky -->
-  <a href="https://bsky.app/profile/tinodevelops.bsky.social" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" style="width:30px; height:30px; margin-right:15px;">
-  </a>
-</p>
 
 
 
@@ -48,15 +39,6 @@
 - AAS Computer Information Systems - Johnson County Community College
 - Data Analytics Certificate - Johnson County Community College
 - BS Molecular Biology - McNeese State University
-
-
-## 📬 Get in Touch
-
-- Connect with me on [BlueSky](https://bsky.app/profile)
-- See more of my work on [tino.me](https://tinok.vercel.app/)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/tino-kaseke/)
-
-
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
