@@ -20,7 +20,16 @@
 
 ![TinoTheGiant's Stats](https://github-readme-stats.vercel.app/api?username=TinoTheGiant&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulu-cao&layout=compact)](https://github.com/TinoTheGiant/github-readme-stats) -->
+### My GitHub activities
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TinoTheGiant/TinoTheGiant/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TinoTheGiant/TinoTheGiant/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/TinoTheGiant/TinoTheGiant/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
 
 
