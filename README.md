@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing two Associate's degrees in Web Development and Networking at JCCC.
+- 🔭 I'm currently pursuing an Associate's degree in Networking at JCCC.
 - I create data visualizations and post them to Blue Sky.
 - I participate in Kaggle competitions
 - I build websites for fun
@@ -37,10 +37,13 @@
  ## 🏆 Achievements
 
 - AAS Computer Information Systems - Johnson County Community College
+- AAS Web Development - Johnson County Community College
 - Data Analytics Certificate - Johnson County Community College
 - BS Molecular Biology - McNeese State University
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+Bluesky: @tinok.engineer
 
 
 
