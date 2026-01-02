@@ -38,6 +38,7 @@
 
 - AAS Computer Information Systems - Johnson County Community College
 - AAS Web Development - Johnson County Community College
+- AAS Computer Support Specialist - Johnson County Community College
 - Data Analytics Certificate - Johnson County Community College
 - BS Molecular Biology - McNeese State University
 
