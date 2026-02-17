@@ -26,12 +26,13 @@
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - learning about Machine learning, API's and Cloud services.
-  - Learning react and adjacent frameworks.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - contributing to open-source projects
+- 🚀 Distributed Systems, Networking & Data Engineering
+    - Designing TCP-based backend services and concurrent systems
+    - Implementing persistence, replication, and coordination in custom distributed applications
+    - Studying Layer 2/Layer 3 networking and cloud virtual network architectures
+    - Investigating database internals and performance optimisation in PostgreSQL
+    - Deploying containerised applications to Azure with infrastructure-level security controls
+    - Applying machine learning within scalable, production-oriented system designs
 
  ## 🏆 Achievements
 
